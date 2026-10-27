@@ -1,0 +1,1643 @@
+C:\Users\maxim\Downloads\grabcraft-to-schema-main\grabcraft-to-schema-main\convert_to_litematic.py:248: DeprecationWarning: Region.setblock() is deprecated. Use array style syntax instead: region[x, y, z]
+  region.setblock(
+Lade JSON-Datei ...
+8889 Blockeinträge gefunden.
+Gebäudegröße: 41 x 39 x 33
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (West from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (South from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (North from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Top Half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Wooden Trapdoor (East from block, Open, Bottom half)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Leaves (No Decay and Check Decay)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing east/west)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing east/west)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing east/west)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Oak Wood (facing east/west)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (East, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (West, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce wood (facing east/west) ': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood (facing north/south)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (East)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Brick Stairs (West)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Cobblestone Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Bottom)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block ' Spruce Wood Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Upside-down)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Stone Slab (Upper)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (South, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+Fehler bei Block 'Spruce Wood Stairs (North, Normal)': BlockState.__init__() takes 2 positional arguments but 3 were given
+
+Fertig!
+Datei erstellt: C:\Users\maxim\Downloads\grabcraft-to-schema-main\grabcraft-to-schema-main\semi_organic_medieval_townhouse.litematic
+
+Nicht korrekt verarbeitete Blocktypen:
+-  Spruce Wood Slab (Bottom)
+-  Spruce Wood Slab (Upper)
+- Cobblestone Stairs (East, Normal)
+- Cobblestone Stairs (East, Upside-down)
+- Cobblestone Stairs (North, Normal)
+- Cobblestone Stairs (North, Upside-down)
+- Cobblestone Stairs (South, Normal)
+- Cobblestone Stairs (South, Upside-down)
+- Cobblestone Stairs (West, Upside-down)
+- Oak Wood (facing east/west)
+- Oak Wood (facing north/south)
+- Spruce Leaves (No Decay and Check Decay)
+- Spruce Wood (facing north/south)
+- Spruce Wood Stairs (East, Normal)
+- Spruce Wood Stairs (East, Upside-down)
+- Spruce Wood Stairs (North, Normal)
+- Spruce Wood Stairs (North, Upside-down)
+- Spruce Wood Stairs (South, Normal)
+- Spruce Wood Stairs (South, Upside-down)
+- Spruce Wood Stairs (West, Normal)
+- Spruce Wood Stairs (West, Upside-down)
+- Spruce wood (facing east/west) 
+- Stone Brick Stairs (East)
+- Stone Brick Stairs (East, Upside-down)
+- Stone Brick Stairs (North, Normal)
+- Stone Brick Stairs (North, Upside-down)
+- Stone Brick Stairs (South, Normal)
+- Stone Brick Stairs (South, Upside-down)
+- Stone Brick Stairs (West)
+- Stone Brick Stairs (West, Upside-down)
+- Stone Slab (Upper)
+- Wooden Trapdoor (East from block, Open, Bottom half)
+- Wooden Trapdoor (East from block, Open, Top Half)
+- Wooden Trapdoor (North from block, Open, Bottom half)
+- Wooden Trapdoor (North from block, Open, Top Half)
+- Wooden Trapdoor (South from block, Open, Bottom half)
+- Wooden Trapdoor (South from block, Open, Top Half)
+- Wooden Trapdoor (West from block, Open, Bottom half)
